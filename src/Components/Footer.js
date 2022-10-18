@@ -25,11 +25,9 @@ const Footer = () => {
                 </div>
 
                 <div className="col">
-                    <h4>Terceira coluna</h4>
+                    <h4>Poke</h4>
                     <ul className="list-unstyled">
-                        <li>11 98851-2788</li>
-                        <li>São Paulo, Brasil</li>
-                        <li>123 Pedra Grande, SP</li>
+                        <li>O Poke custo benefício mais gostoso que você já viu!</li>
                     </ul>
                 </div>
             </div>

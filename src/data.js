@@ -154,7 +154,7 @@ const menu = [
       title: 'Shake Sicilian Lemon',
       category: 'Bebidas',
       price: 14.99,
-      img: './images/Pratos/item-18.png',
+      img: './images/Pratos/item-19.png',
       desc: `Milkshake.`,
     },
   ];
