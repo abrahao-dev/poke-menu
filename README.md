@@ -4,7 +4,7 @@
 
 ## ❓ O que é o Poke Menu?
 
-O *Poke Menu* é um cardápio virtual, sempre preservando a privacidade, a simplicidade e agilidade. O Saturn Chat está sendo totalmente desenvolvido pelo [@mamalvares](https://github.com/mamalvares). Foi utilizado no desenvolvimento React JS.
+O *Poke Menu* é um cardápio virtual, sempre preservando a praticidade e agilidade. O Poke Menu está sendo totalmente desenvolvido pelo [@mamalvares](https://github.com/mamalvares). Foi utilizado no desenvolvimento React JS.
 
 ## 🤔 Por quê?
 
