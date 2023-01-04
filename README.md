@@ -1,6 +1,3 @@
-# poke-menu
- A simple restaurant menu App using ReactJS
-
 # 🥗 Poke Menu
 
 <img width="1440" alt="poke demo" src="https://user-images.githubusercontent.com/55765308/210568498-4fcdb1a3-e363-48f8-8b73-a5746e486e8b.png">
