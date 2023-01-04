@@ -58,7 +58,7 @@ const menu = [
       title: 'Salmao',
       category: 'Monte',
       price: 14.99,
-      img: './images/Pratos/item-10.jpg',
+      img: './images/Pratos/item-14.jpg',
       desc: `Um Milkshake Insano como você nunca viu! A combinação de baunilha com macadâmia caramelizada e muita calda de caramelo. Uma explosão de sabor e cremosidade.`,
     },
     {
@@ -66,7 +66,7 @@ const menu = [
       title: 'Salmão cru',
       category: 'Monte',
       price: 14.99,
-      img: './images/Pratos/item-10.jpg',
+      img: './images/Pratos/item-14.jpg',
       desc: `Um Milkshake Insano como você nunca viu! A combinação de baunilha com macadâmia caramelizada e muita calda de caramelo. Uma explosão de sabor e cremosidade.`,
     },
     {
@@ -74,7 +74,7 @@ const menu = [
       title: 'Atum',
       category: 'Monte',
       price: 14.99,
-      img: './images/Pratos/item-10.jpg',
+      img: './images/Pratos/item-14.jpg',
       desc: `Um Milkshake Insano como você nunca viu! A combinação de baunilha com macadâmia caramelizada e muita calda de caramelo. Uma explosão de sabor e cremosidade.`,
     },
     {
@@ -82,7 +82,7 @@ const menu = [
       title: 'Frango',
       category: 'Monte',
       price: 14.99,
-      img: './images/Pratos/item-10.jpg',
+      img: './images/Pratos/item-14.jpg',
       desc: `Um Milkshake Insano como você nunca viu! A combinação de baunilha com macadâmia caramelizada e muita calda de caramelo. Uma explosão de sabor e cremosidade.`,
     },
     {
@@ -90,7 +90,7 @@ const menu = [
       title: 'Batata Chips',
       category: 'Monte',
       price: 14.99,
-      img: './images/Pratos/item-10.jpg',
+      img: './images/Pratos/item-14.jpg',
       desc: `Um Milkshake Insano como você nunca viu! A combinação de baunilha com macadâmia caramelizada e muita calda de caramelo. Uma explosão de sabor e cremosidade.`,
     },
     {
@@ -98,7 +98,7 @@ const menu = [
       title: 'Arroz',
       category: 'Monte',
       price: 14.99,
-      img: './images/Pratos/item-10.jpg',
+      img: './images/Pratos/item-14.jpg',
       desc: `Um Milkshake Insano como você nunca viu! A combinação de baunilha com macadâmia caramelizada e muita calda de caramelo. Uma explosão de sabor e cremosidade.`,
     },
     {
@@ -124,38 +124,6 @@ const menu = [
       price: 24.99,
       img: './images/Pratos/item-15.jpg',
       desc: `Pão com gergelim, um saboroso hambúrguer de pura carne bovina, uma fatia de queijo derretido, duas fatias de picles, ketchup e mostarda.`,
-    },
-    {
-      id: 16,
-      title: 'Água',
-      category: 'Bebidas',
-      price: 14.99,
-      img: './images/Pratos/item-16.jfif',
-      desc: `Deliciosa água Voss.`,
-    },
-    {
-      id: 17,
-      title: 'Refrigerante',
-      category: 'Bebidas',
-      price: 14.99,
-      img: './images/Pratos/item-17.png',
-      desc: `Coca-cola, Sprite, Fanta Guaraná.`,
-    },
-    {
-      id: 18,
-      title: 'Shake',
-      category: 'Bebidas',
-      price: 14.99,
-      img: './images/Pratos/item-18.png',
-      desc: `Milkshake de baunilha`,
-    },
-    {
-      id: 19,
-      title: 'Shake Sicilian Lemon',
-      category: 'Bebidas',
-      price: 14.99,
-      img: './images/Pratos/item-19.png',
-      desc: `Milkshake.`,
     },
   ];
   export default menu;

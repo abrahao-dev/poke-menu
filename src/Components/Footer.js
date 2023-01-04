@@ -1,4 +1,5 @@
 import React from 'react'
+import logo from "../logo-png.png";
 import './Footer.css';
 
 const Footer = () => {
@@ -6,28 +7,26 @@ const Footer = () => {
     <div className="main-footer">
         <div className="container">
             <div className="row">
-                <div className="col">
-                    <h4>Primeira coluna</h4>
+            <div className="col">
                     <ul className="list-unstyled">
-                        <li>11 98851-2788</li>
-                        <li>São Paulo, Brasil</li>
-                        <li>123 Pedra Grande, SP</li>
+                        <img src={logo} alt="logo" className="logo" />
                     </ul>
                 </div>
 
                 <div className="col">
-                    <h4>Segunda coluna</h4>
+                    <h4>Nossa unidade</h4>
                     <ul className="list-unstyled">
                         <li>11 98851-2788</li>
                         <li>São Paulo, Brasil</li>
-                        <li>123 Pedra Grande, SP</li>
+                        <li>123 São Paulo, SP</li>
                     </ul>
                 </div>
 
                 <div className="col">
-                    <h4>Poke</h4>
+                    <h4>Horários de funcionamento</h4>
                     <ul className="list-unstyled">
-                        <li>O Poke custo benefício mais gostoso que você já viu!</li>
+                        <li>Segunda-Sábado</li>
+                        <li>11:30 às 22:30</li>
                     </ul>
                 </div>
             </div>

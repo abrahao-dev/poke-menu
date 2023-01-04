@@ -10,7 +10,7 @@ const Categories = ({categories, filterItems, activeCategory}) => {
                 className={`${activeCategory === category ? "filter-btn active" : "filter-btn"}`}
                 key={index}
                 onClick={() => filterItems(category)}>
-                    {category}
+                    {category}''
                 </button>
             )
         })}
