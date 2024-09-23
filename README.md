@@ -4,7 +4,7 @@
 
 ## 📖 About Poke Menu
 
-Poke Menu is a virtual menu application designed to provide practicality and agility for restaurants and their customers. Developed entirely by [@mamalvares](https://github.com/mamalvares) using React JS.
+Poke Menu is a virtual menu application designed to provide practicality and agility for restaurants and their customers. Developed entirely by [@abrahao-dev](https://github.com/abrahao-dev) using React JS.
 
 ### Why a Virtual Menu?
 
@@ -60,7 +60,7 @@ A virtual menu is a powerful tool for any restaurant looking to offer its custom
 
 We welcome contributions to Poke Menu! Here's how you can help:
 
-1. **Report bugs or suggest features**: Open an [issue](https://github.com/mamalvares/poke-menu/issues) describing the bug or new feature.
+1. **Report bugs or suggest features**: Open an [issue](https://github.com/abrahao-dev/poke-menu/issues) describing the bug or new feature.
 2. **Contribute code**: 
    - Fork the repository
    - Create your feature branch (`git checkout -b feature/AmazingFeature`)
