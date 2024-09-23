@@ -2,26 +2,84 @@
 
 <img width="1440" alt="poke demo" src="https://user-images.githubusercontent.com/55765308/210568498-4fcdb1a3-e363-48f8-8b73-a5746e486e8b.png">
 
-## ❓ O que é o Poke Menu?
+## 📖 About Poke Menu
 
-O *Poke Menu* é um cardápio virtual, sempre preservando a praticidade e agilidade. O Poke Menu está sendo totalmente desenvolvido pelo [@mamalvares](https://github.com/mamalvares). Foi utilizado no desenvolvimento React JS.
+Poke Menu is a virtual menu application designed to provide practicality and agility for restaurants and their customers. Developed entirely by [@mamalvares](https://github.com/mamalvares) using React JS.
 
-## 🤔 Por quê?
+### Why a Virtual Menu?
 
-O cardápio virtual é uma ferramenta poderosa para qualquer restaurante que deseja oferecer aos seus clientes uma experiência de jantar conveniente e sem problemas.
+A virtual menu is a powerful tool for any restaurant looking to offer its customers a convenient and seamless dining experience. It provides:
 
-## 🌐 Quais features o Poke Menu possui?
+- Easy access to the full menu
+- Quick updates for specials or changes
+- Reduced physical contact (especially important in post-pandemic times)
+- Enhanced visual presentation of dishes
 
-- Cardápio completo do restaurante
-- Endereço do restaurante
-- Botão do Whats App
+## 🌟 Features
 
-## 📱 E o que sería o repositório Poke Menu?
+- Complete restaurant menu
+- Restaurant address information
+- WhatsApp button for easy communication
+- [Add any other key features here]
 
-Esse é o repositório do web app, onde fica todo o código referente ao Poke Menu.
+## 🚀 Getting Started
 
-## 👨‍🏭 Como posso contribuir com projeto?
+### Prerequisites
 
-**Que bom que você quer ajudar!!** Caso encontre qualquer bug ou queira simplesmente dar um sugestão, basta **abrir um issue**.
+- Node.js (version X.X or higher)
+- npm or yarn
 
-Agora caso você seja uma pessoa que gosta de por a **mão na massa** basta fazer um *PR* (Pull Request) aplicando sua solução. Nós analisaremos e se tudo estiver certo aplicaremos sua solução no projeto.
+### Installation
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/mamalvares/poke-menu.git
+   ```
+2. Navigate to the project directory:
+   ```
+   cd poke-menu
+   ```
+3. Install dependencies:
+   ```
+   npm install
+   ```
+   or
+   ```
+   yarn install
+   ```
+4. Start the development server:
+   ```
+   npm start
+   ```
+   or
+   ```
+   yarn start
+   ```
+
+## 🤝 Contributing
+
+We welcome contributions to Poke Menu! Here's how you can help:
+
+1. **Report bugs or suggest features**: Open an [issue](https://github.com/mamalvares/poke-menu/issues) describing the bug or new feature.
+2. **Contribute code**: 
+   - Fork the repository
+   - Create your feature branch (`git checkout -b feature/AmazingFeature`)
+   - Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+   - Push to the branch (`git push origin feature/AmazingFeature`)
+   - Open a Pull Request
+
+We'll review all contributions and merge them if they align with the project's goals.
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE.md) - see the LICENSE.md file for details.
+
+## 📞 Contact
+
+Matheus Alvares - [@abrahao-dev](https://github.com/abrahao-dev)
+
+Project Link: [https://github.com/mamalvares/poke-menu](https://github.com/abrahao-dev/poke-menu)
+
+---
+
+Made with ❤️ by [@abrahao-dev](https://github.com/abrahao-dev)
