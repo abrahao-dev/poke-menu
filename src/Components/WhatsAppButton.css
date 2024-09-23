@@ -1,0 +1,45 @@
+.floating-wpp-button {
+  width: 60px !important;
+  height: 60px !important;
+}
+
+.floating-wpp-button-image {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.floating-wpp-popup {
+  width: 260px !important;
+}
+
+.floating-wpp-head {
+  background-color: #f8858e !important;
+}
+
+.floating-wpp-message {
+  background-color: #fff !important;
+  color: #333 !important;
+}
+
+.floating-wpp-input-message {
+  background-color: #fff !important;
+  color: #333 !important;
+  border: 1px solid #f8858e !important;
+}
+
+.floating-wpp-btn-send {
+  background-color: #f8858e !important;
+  color: #fff !important;
+}
+
+/* Fix for notification alignment */
+.floating-wpp-button-image ~ span {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  width: 20px !important;
+  height: 20px !important;
+  top: -3px !important;
+  right: -3px !important;
+  font-size: 12px !important;
+}
